@@ -1,0 +1,12 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: var(--public-sans);
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 45px;
+}
