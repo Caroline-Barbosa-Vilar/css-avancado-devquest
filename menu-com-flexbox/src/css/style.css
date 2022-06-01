@@ -1,5 +1,6 @@
 html {
   font-size: 62.5%;
+  color: var(--text-black);
 }
 body {
   font-family: var(--public-sans);
@@ -18,4 +19,25 @@ body {
   font-size: 2rem;
   font-weight: 800;
   margin-left: 5px;
+}
+.menu {
+  display: flex;
+  align-items: center;
+}
+.menu li a {
+  font-size: 1.5rem;
+  padding: 10px 5px;
+  margin-left: 15px;
+  transition: 0.3s ease-in-out;
+}
+.menu li a:hover {
+  background-color: var(--background);
+  color: var(--text-white);
+}
+.menu li a.btn {
+  background-color: var(--background);
+  color: var(--text-white);
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin-left: 20px;
 }
