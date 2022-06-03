@@ -1,0 +1,22 @@
+.paintings .painting {
+  width: 335px;
+  height: 431px;
+  position: relative;
+}
+.paintings .painting {
+  width: 100%;
+}
+.paintings .painting .info {
+  position: absolute;
+  color: var(--text);
+  bottom: 40px;
+  left: 20px;
+}
+.paintings .painting .info .title {
+  font-size: 30px;
+  margin-bottom: 8px;
+}
+.paintings .painting .info .sub-title {
+  font-weight: 300;
+  font-size: 17px;
+}
