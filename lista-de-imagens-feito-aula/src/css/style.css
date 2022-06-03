@@ -1,0 +1,13 @@
+.painting .image {
+  width: 23rem;
+  height: 30rem;
+  position: relative;
+}
+.painting .image .title,
+.painting .image .sub-title  {
+  position: absolute;
+  color: var(--text);
+  background-color: aqua;
+  bottom: 40px;
+  
+}
