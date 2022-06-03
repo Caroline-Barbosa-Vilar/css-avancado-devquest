@@ -1,3 +1,9 @@
+.paintings {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 .paintings .painting {
   width: 335px;
   height: 431px;
