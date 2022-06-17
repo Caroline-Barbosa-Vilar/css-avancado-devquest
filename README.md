@@ -23,7 +23,9 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 <br>
 
 ## Exercises description
+
 <br>
+
 ### 1st Challenge: Menu with flexbox
 
 - Recreate the menu of a fictional bank following the design guidelines in figma;
@@ -42,7 +44,8 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 ### 3rd Challenge: Layout with Grid
 
-- 
+- Simulate the layout of a video streaming page according to figma's design guidelines;
+- Using Grid.
 
 <br>
 
@@ -94,7 +97,9 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 <br>
 
 ## Descrição dos exercícios 
+	
 <br>
+	
 ### Desafio 1: Menu com flexbox
 
 - Recriar o menu de um banco fictício seguindo as diretrizes do design no figma;
@@ -111,7 +116,10 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 	
 ### Desafio 3: Layout com Grid
 
-- 
+- Simular o layout de uma página de streamming de videos de acordo com as diretrizes de design do figma;
+- Utilizar o Grid.
+
+<br>
 
 ## Tecnologias utilizadas
 
