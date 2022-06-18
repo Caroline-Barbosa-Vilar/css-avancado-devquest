@@ -1,6 +1,6 @@
 <p align='center'> <img src="logo-devQuest.jpg" alt="Course logo"> </p>
 
-<h2 align='center'> Exercises practiced during the frontend development course <a href="https://devemdobro.com/lista/">DevQuest</a></h2>
+<h2 align='center'> Exercises to practice the content of the frontend development course <a href="https://devemdobro.com/lista/">DevQuest</a></h2>
 
 <div align='center'>
 	<img src="http://img.shields.io/static/v1?label=EXERCISES&message=DELIVERED&color=lightblue&style=for-the-badge"/>
@@ -78,7 +78,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 <p align='center'> <img src="logo-devQuest.jpg" alt="Course logo"> </p>
 
 
-<h1></h1>
+<h2>Exercícios para praticar o contepudo do curso de desenvolvimento Frontend <a href="https://devemdobro.com/lista/">DevQuest</a></h2>
 
 
 <div align='center'>
