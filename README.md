@@ -78,7 +78,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 <p align='center'> <img src="logo-devQuest.jpg" alt="Course logo"> </p>
 
 
-<h2>Exercícios para praticar o contepudo do curso de desenvolvimento Frontend <a href="https://devemdobro.com/lista/">DevQuest</a></h2>
+<h2 align='center'>Exercícios para praticar o contepudo do curso de desenvolvimento Frontend <a href="https://devemdobro.com/lista/">DevQuest</a></h2>
 
 
 <div align='center'>
